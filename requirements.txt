@@ -17,6 +17,8 @@ PyDispatcher==2.0.5
 pyOpenSSL==17.4.0
 queuelib==1.4.2
 Scrapy==1.4.0
+scrapyd==1.2.0
+scrapyd-heroku==0.1.0
 service-identity==17.0.0
 six==1.11.0
 Twisted==17.9.0
